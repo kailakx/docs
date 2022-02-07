@@ -98,7 +98,7 @@ These changes will be made only to the README file on your `readme-edits` branch
 
 ## Opening a pull request
 
-Now that you have changes in a branch off of `main`, you can open a pull request.
+Now that you have changes in a branch off of `main`, you can open a pull request do apply the merge application
 
 Pull requests are the heart of collaboration on {% data variables.product.product_name %}. When you open a pull request, you're proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in different colors.
 
